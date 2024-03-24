@@ -17,7 +17,7 @@
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/12_Integer_to_Roman.py">Solution</a></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td><a href="https://leetcode.com/problems/h-index/">274. H-Index</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/274_H_Index.py">Solution</a></td>
   </tr>
