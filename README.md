@@ -1,9 +1,5 @@
 # LeetCode Solutions Repository
 
-
-
-## Problem List
-
 <table>
   <tr>
     <th>Serial Number</th>
@@ -12,18 +8,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>3</td>
-    <td><a href="https://github.com/username/problem-1">Solution for Problem 1</a></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>2</td>
-    <td><a href="https://github.com/username/problem-2">Solution for Problem 2</a></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>3</td>
-    <td><a href="https://github.com/username/problem-3">Solution for Problem 3</a></td>
-  </tr>
-  <!-- Add more rows as needed -->
+    <td>33</td>
+    <td><a href="[33. Search in Rotated Sorted Array.py](https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/e6ea7bf7bcd93ad63ad692ae0a01e126064b88a8/33.%20Search%20in%20Rotated%20Sorted%20Array.py)">Search in Rotated Sorted Array</a></td>
+
 </table>
