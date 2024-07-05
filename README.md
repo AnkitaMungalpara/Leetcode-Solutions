@@ -21,4 +21,14 @@
     <td><a href="https://leetcode.com/problems/h-index/">274. H-Index</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/274_H_Index.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/h-index/">88. Merge Sorted Array</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/88_Merge_Sorted_Array.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/h-index/">27. Remove Element</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/27_Remove_Element.py">Solution</a></td>
+  </tr>
 </table>
