@@ -31,4 +31,14 @@
     <td><a href="https://leetcode.com/problems/h-index/">27. Remove Element</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/27_Remove_Element.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/h-index/">121. Best Time to Buy and Sell Stock</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/121_Best_Time_to_Buy_and_Sell_Stock.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/h-index/">122. Best Time to Buy and Sell Stock II</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/122_Best_Time_to_Buy_and_Sell_Stock_II.py">Solution</a></td>
+  </tr>
 </table>
