@@ -4,7 +4,7 @@
   <tr>
     <th>Sr. No.</th>
     <th>LeetCode Problem</th>
-    <th>Solution GitHub Repo</th>
+    <th>Solution GitHub Link</th>
   </tr>
   <tr>
     <td>1</td>
@@ -40,5 +40,10 @@
     <td>7</td>
     <td><a href="https://leetcode.com/problems/h-index/">122. Best Time to Buy and Sell Stock II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/122_Best_Time_to_Buy_and_Sell_Stock_II.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/h-index/">55. Jump Game</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/55_Jump_Game.py">Solution</a></td>
   </tr>
 </table>
