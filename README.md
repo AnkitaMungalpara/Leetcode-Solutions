@@ -1,10 +1,12 @@
 # LeetCode Solutions Repository
 
+This repository contains solutions to various LeetCode problems, all implemented in `Python` programming language. Each solution is built to be efficient and easy to understand, helping to improve coding skills and problem-solving techniques.
+
 <table>
   <tr>
     <th>Sr. No.</th>
     <th>LeetCode Problem</th>
-    <th>Solution GitHub Link</th>
+    <th>GitHub Link</th>
   </tr>
   <tr>
     <td>1</td>
@@ -45,5 +47,10 @@
     <td>8</td>
     <td><a href="https://leetcode.com/problems/h-index/">55. Jump Game</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/55_Jump_Game.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/h-index/">26. Remove Duplicates from Sorted Array</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py">Solution</a></td>
   </tr>
 </table>
