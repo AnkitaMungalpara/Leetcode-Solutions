@@ -53,4 +53,9 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/h-index/">26. Remove Duplicates from Sorted Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/h-index/">238. Product of Array Except Self</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/238_Product_of_Array_Except_Self.py">Solution</a></td>
+  </tr>
 </table>
