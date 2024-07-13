@@ -63,4 +63,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/h-index/">134. Gas Station</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/134_Gas_Station.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>12</td>
+    <td><a href="https://leetcode.com/problems/h-index/">80. Remove Duplicates from Sorted Array II</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/80_Remove_Duplicates_from_Sorted_Array_II.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td><a href="https://leetcode.com/problems/h-index/">13. Roman to Integer</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/13_Roman_to_Integer.py">Solution</a></td>
+  </tr>
 </table>
