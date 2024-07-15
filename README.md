@@ -73,4 +73,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/h-index/">13. Roman to Integer</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/13_Roman_to_Integer.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>14</td>
+    <td><a href="https://leetcode.com/problems/h-index/">58. Length of Last Word</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/58_Length_of_Last_Word.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td><a href="https://leetcode.com/problems/h-index/">14. Longest Common Prefix</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/14_Longest_Common_Prefix.py">Solution</a></td>
+  </tr>
 </table>
