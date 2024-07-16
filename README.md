@@ -83,4 +83,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/h-index/">14. Longest Common Prefix</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/14_Longest_Common_Prefix.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>16</td>
+    <td><a href="https://leetcode.com/problems/h-index/">151. Reverse Words in a String</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/151_Reverse_Words_in_a_String.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td><a href="https://leetcode.com/problems/h-index/">125. Valid Palindrome</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/125_Valid_Palindrome.py">Solution</a></td>
+  </tr>
 </table>
