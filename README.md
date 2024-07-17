@@ -25,52 +25,52 @@ This repository contains solutions to various LeetCode problems, all implemented
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="https://leetcode.com/problems/h-index/">88. Merge Sorted Array</a></td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array/">88. Merge Sorted Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/88_Merge_Sorted_Array.py">Solution</a></td>
   </tr>
   <tr>
     <td>5</td>
-    <td><a href="https://leetcode.com/problems/h-index/">27. Remove Element</a></td>
+    <td><a href="https://leetcode.com/problems/remove-element/">27. Remove Element</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/27_Remove_Element.py">Solution</a></td>
   </tr>
   <tr>
     <td>6</td>
-    <td><a href="https://leetcode.com/problems/h-index/">121. Best Time to Buy and Sell Stock</a></td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock">121. Best Time to Buy and Sell Stock</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/121_Best_Time_to_Buy_and_Sell_Stock.py">Solution</a></td>
   </tr>
   <tr>
     <td>7</td>
-    <td><a href="https://leetcode.com/problems/h-index/">122. Best Time to Buy and Sell Stock II</a></td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii">122. Best Time to Buy and Sell Stock II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/122_Best_Time_to_Buy_and_Sell_Stock_II.py">Solution</a></td>
   </tr>
   <tr>
     <td>8</td>
-    <td><a href="https://leetcode.com/problems/h-index/">55. Jump Game</a></td>
+    <td><a href="https://leetcode.com/problems/jump-game/">55. Jump Game</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/55_Jump_Game.py">Solution</a></td>
   </tr>
   <tr>
     <td>9</td>
-    <td><a href="https://leetcode.com/problems/h-index/">26. Remove Duplicates from Sorted Array</a></td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">26. Remove Duplicates from Sorted Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py">Solution</a></td>
   </tr>
   <tr>
     <td>10</td>
-    <td><a href="https://leetcode.com/problems/h-index/">238. Product of Array Except Self</a></td>
+    <td><a href="https://leetcode.com/problems/product-of-array-except-self/">238. Product of Array Except Self</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/238_Product_of_Array_Except_Self.py">Solution</a></td>
   </tr>
   <tr>
     <td>11</td>
-    <td><a href="https://leetcode.com/problems/h-index/">134. Gas Station</a></td>
+    <td><a href="https://leetcode.com/problems/gas-station/">134. Gas Station</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/134_Gas_Station.py">Solution</a></td>
   </tr>
   <tr>
     <td>12</td>
-    <td><a href="https://leetcode.com/problems/h-index/">80. Remove Duplicates from Sorted Array II</a></td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">80. Remove Duplicates from Sorted Array II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/80_Remove_Duplicates_from_Sorted_Array_II.py">Solution</a></td>
   </tr>
   <tr>
     <td>13</td>
-    <td><a href="https://leetcode.com/problems/h-index/">13. Roman to Integer</a></td>
+    <td><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/13_Roman_to_Integer.py">Solution</a></td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ This repository contains solutions to various LeetCode problems, all implemented
   </tr>
   <tr>
     <td>19</td>
-    <td><a href="https://leetcode.com/problems/h-index/">392. Is Subsequence</a></td>
+    <td><a href="https://leetcode.com/problems/is-subsequence/">392. Is Subsequence</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/392_Is_Subsequence.py">Solution</a></td>
   </tr>
 </table>
