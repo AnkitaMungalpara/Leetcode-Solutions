@@ -93,4 +93,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/h-index/">125. Valid Palindrome</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/125_Valid_Palindrome.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>18</td>
+    <td><a href="https://leetcode.com/problems/h-index/">28. Find the Index of the First Occurrence in a String</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/28_Find_Index_of_the_First_Occurrence_in_String.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td><a href="https://leetcode.com/problems/h-index/">392. Is Subsequence</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/392_Is_Subsequence.py">Solution</a></td>
+  </tr>
 </table>
