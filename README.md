@@ -75,32 +75,42 @@ This repository contains solutions to various LeetCode problems, all implemented
   </tr>
   <tr>
     <td>14</td>
-    <td><a href="https://leetcode.com/problems/h-index/">58. Length of Last Word</a></td>
+    <td><a href="https://leetcode.com/problems/length-of-last-word/">58. Length of Last Word</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/58_Length_of_Last_Word.py">Solution</a></td>
   </tr>
   <tr>
     <td>15</td>
-    <td><a href="https://leetcode.com/problems/h-index/">14. Longest Common Prefix</a></td>
+    <td><a href="https://leetcode.com/problems/longest-common-prefix/">14. Longest Common Prefix</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/14_Longest_Common_Prefix.py">Solution</a></td>
   </tr>
   <tr>
     <td>16</td>
-    <td><a href="https://leetcode.com/problems/h-index/">151. Reverse Words in a String</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-words-in-a-string/">151. Reverse Words in a String</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/151_Reverse_Words_in_a_String.py">Solution</a></td>
   </tr>
   <tr>
     <td>17</td>
-    <td><a href="https://leetcode.com/problems/h-index/">125. Valid Palindrome</a></td>
+    <td><a href="https://leetcode.com/problems/valid-palindrome/">125. Valid Palindrome</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/125_Valid_Palindrome.py">Solution</a></td>
   </tr>
   <tr>
     <td>18</td>
-    <td><a href="https://leetcode.com/problems/h-index/">28. Find the Index of the First Occurrence in a String</a></td>
+    <td><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">28. Find the Index of the First Occurrence in a String</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/28_Find_Index_of_the_First_Occurrence_in_String.py">Solution</a></td>
   </tr>
   <tr>
     <td>19</td>
     <td><a href="https://leetcode.com/problems/is-subsequence/">392. Is Subsequence</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/392_Is_Subsequence.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167. Two Sum II - Input Array Is Sorted</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/167_Two_Sum%20_II_Input_Array_Is_Sorted.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td><a href="https://leetcode.com/problems/container-with-most-water/">11. Container With Most Water</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/11_Container_With_Most_Water.py">Solution</a></td>
   </tr>
 </table>
