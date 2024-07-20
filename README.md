@@ -113,4 +113,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/container-with-most-water/">11. Container With Most Water</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/11_Container_With_Most_Water.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>22</td>
+    <td><a href="https://leetcode.com/problems/3sum/">15. 3Sum</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/15_3Sum.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">209. Minimum Size Subarray Sum</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/209_Minimum_Size_Subarray_Sum.py">Solution</a></td>
+  </tr>
 </table>
