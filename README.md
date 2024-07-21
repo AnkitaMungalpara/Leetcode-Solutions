@@ -123,4 +123,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">209. Minimum Size Subarray Sum</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/209_Minimum_Size_Subarray_Sum.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>24</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">23. Longest Substring Without Repeating Characters</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/3_Longest_Substring_Without_Repeating_Characters.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td><a href="https://leetcode.com/problems/ransom-note/">383. Ransom Note</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/383_Ransom_Note.py">Solution</a></td>
+  </tr>
 </table>
