@@ -133,4 +133,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/ransom-note/">383. Ransom Note</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/383_Ransom_Note.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>26</td>
+    <td><a href="https://leetcode.com/problems/isomorphic-strings/">205. Isomorphic Strings</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/205_Isomorphic_Strings.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td><a href="https://leetcode.com/problems/word-pattern/">290. Word Pattern</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/290_Word_Pattern.py">Solution</a></td>
+  </tr>
 </table>
