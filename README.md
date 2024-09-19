@@ -143,4 +143,19 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/word-pattern/">290. Word Pattern</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/290_Word_Pattern.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>28</td>
+    <td><a href="https://leetcode.com/problems/remove-duplicate-letters/">316. Remove Duplicate Letters</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/316_Remove_Duplicate_Letters.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td><a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/">1081. Smallest Subsequence of Distinct Characters</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1081_Smallest_Subsequence_of_Distinct%20_Characters.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td><a href="https://leetcode.com/problems/degree-of-an-array/">697. Degree of an Array</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/697_Degree_of_an_Array.py">Solution</a></td>
+  </tr>
 </table>
