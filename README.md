@@ -175,7 +175,7 @@ This repository contains solutions to various LeetCode problems, all implemented
   </tr>
   <tr>
     <td>34</td>
-    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">45. Longest Palindromic Substring</a></td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">5. Longest Palindromic Substring</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/5_Longest_Palindromic_Substring.py">Solution</a></td>
   </tr>
   <tr>
