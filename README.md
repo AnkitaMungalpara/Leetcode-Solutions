@@ -188,4 +188,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/sort-colors/">75. Sort Colors</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/75_Sort_Colors.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>37</td>
+    <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/215_Kth_Largest_Element_in_an_Array.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list/">206. Reverse Linked List</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/206_Reverse_Linked_List.py">Solution</a></td>
+  </tr>
 </table>
