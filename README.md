@@ -158,4 +158,19 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/degree-of-an-array/">697. Degree of an Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/697_Degree_of_an_Array.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>31</td>
+    <td><a href="https://leetcode.com/problems/combination-sum/">39. Combination Sum</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/39_Combination_Sum.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td><a href="https://leetcode.com/problems/delete-operation-for-two-strings/">583. Delete Operation for Two Strings</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/583_Delete_Operation_for_Two_Strings.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td><a href="https://leetcode.com/problems/permutations/">46. Permutations</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/46_Permutations.py">Solution</a></td>
+  </tr>
 </table>
