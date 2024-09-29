@@ -173,4 +173,19 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/permutations/">46. Permutations</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/46_Permutations.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>34</td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">45. Longest Palindromic Substring</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/5_Longest_Palindromic_Substring.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td><a href="https://leetcode.com/problems/merge-intervals/">56. Merge Intervals</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/56_Merge_Intervals.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td><a href="https://leetcode.com/problems/sort-colors/">75. Sort Colors</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/75_Sort_Colors.py">Solution</a></td>
+  </tr>
 </table>
