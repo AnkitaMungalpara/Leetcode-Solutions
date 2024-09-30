@@ -198,4 +198,19 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/reverse-linked-list/">206. Reverse Linked List</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/206_Reverse_Linked_List.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>39</td>
+    <td><a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/283_Move_Zeroes.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td><a href="https://leetcode.com/problems/coin-change-ii/">518. Coin Change II</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/518_Coin_Change_II.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td><a href="https://leetcode.com/problems/decode-string/">394. Decode String</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/394_Decode_String.py">Solution</a></td>
+  </tr>
 </table>
