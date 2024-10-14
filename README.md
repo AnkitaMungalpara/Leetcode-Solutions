@@ -213,4 +213,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/decode-string/">394. Decode String</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/394_Decode_String.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>42</td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/">1456. Maximum Number of Vowels in a Substring of Given Length</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td><a href="https://leetcode.com/problems/find-the-highest-altitude/">1732. Find the Highest Altitude</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1732_Find_the_Highest_Altitude.py">Solution</a></td>
+  </tr>
 </table>
