@@ -223,4 +223,14 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/find-the-highest-altitude/">1732. Find the Highest Altitude</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1732_Find_the_Highest_Altitude.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>44</td>
+    <td><a href="https://leetcode.com/problems/max-consecutive-ones-iii/">1004. Max Consecutive Ones III</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1004_Max_Consecutive_Ones_III.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td><a href="https://leetcode.com/problems/find-pivot-index/">724. Find Pivot Index</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/724_Find_Pivot_Index.py">Solution</a></td>
+  </tr>
 </table>
