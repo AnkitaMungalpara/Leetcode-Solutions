@@ -233,4 +233,22 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/find-pivot-index/">724. Find Pivot Index</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/724_Find_Pivot_Index.py">Solution</a></td>
   </tr>
+
+  <tr>
+    <td>46</td>
+    <td><a href="https://leetcode.com/problems/find-the-difference-of-two-arrays/">2215. Find the Difference of Two Arrays</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/2215_Find_the_Difference_of_Two_Arrays.py">Solution</a></td>
+  </tr>
+
+  <tr>
+    <td>47</td>
+    <td><a href="https://leetcode.com/problems/equal-row-and-column-pairs/">2352. Equal Row and Column Pairs</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/2352_Equal_Row_and_Column_Pairs.py">Solution</a></td>
+  </tr>
+
+  <tr>
+    <td>48</td>
+    <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">1207. Unique Number of Occurrences</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1207._Unique_Number_of_Occurrences.py">Solution</a></td>
+  </tr>
 </table>
