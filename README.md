@@ -248,16 +248,24 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">1207. Unique Number of Occurrences</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1207._Unique_Number_of_Occurrences.py">Solution</a></td>
   </tr>
-
   <tr>
     <td>49</td>
     <td><a href="https://leetcode.com/problems/generate-parentheses/">22. Generate Parentheses</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/22_Generate_Parentheses.py">Solution</a></td>
   </tr>
-
   <tr>
     <td>50</td>
     <td><a href="https://leetcode.com/problems/happy-number/">202. Happy Number</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/202_Happy_Number.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td><a href="https://leetcode.com/problems/maximum-subarray/">53. Maximum Subarray</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/53_Maximum_Subarray.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate-ii/">219. Contains Duplicate II</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/219_Contains_Duplicate_II.py">Solution</a></td>
   </tr>
 </table>
