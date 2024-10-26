@@ -268,4 +268,15 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/contains-duplicate-ii/">219. Contains Duplicate II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/219_Contains_Duplicate_II.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>53</td>
+    <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">128. Longest Consecutive Sequence</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/128_Longest_Consecutive_Sequence.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">153. Find Minimum in Rotated Sorted Array</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/153_Find_Minimum_in_Rotated_Sorted_Array.py">Solution</a></td>
+  </tr>
+  
 </table>
