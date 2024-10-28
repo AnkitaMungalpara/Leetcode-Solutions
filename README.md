@@ -278,5 +278,15 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">153. Find Minimum in Rotated Sorted Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/153_Find_Minimum_in_Rotated_Sorted_Array.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>55</td>
+    <td><a href="https://leetcode.com/problems/find-peak-element/">162. Find Peak Element</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/162_Find_Peak_Element.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td><a href="https://leetcode.com/problems/sort-list/">148. Sort List</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/148_Sort_List.py">Solution</a></td>
+  </tr>
   
 </table>
