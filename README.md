@@ -288,5 +288,9 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/sort-list/">148. Sort List</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/148_Sort_List.py">Solution</a></td>
   </tr>
-  
+  <tr>
+    <td>57</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/3_Longest_Substring_Without_Repeating_Characters.py">Solution</a></td>
+  </tr>
 </table>
