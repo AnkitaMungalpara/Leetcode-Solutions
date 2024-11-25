@@ -224,7 +224,7 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
        <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">  
-       <img src="https://img.shields.io/badge/Sliding Window-violet" alt="tp">
+       <img src="https://img.shields.io/badge/Sliding Window-violet" alt="sw">
        <img src="https://img.shields.io/badge/Prefix Sum-yellow" alt="ps">
     </td>
   </tr>
@@ -416,21 +416,40 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>51</td>
     <td><a href="https://leetcode.com/problems/maximum-subarray/">53. Maximum Subarray</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/53_Maximum_Subarray.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Divide and Conquer-magenta" alt="dc">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
   </tr>
   <tr>
     <td>52</td>
     <td><a href="https://leetcode.com/problems/contains-duplicate-ii/">219. Contains Duplicate II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/219_Contains_Duplicate_II.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/Sliding Window-violet" alt="sw">
+    </td>
   </tr>
   <tr>
     <td>53</td>
     <td><a href="https://leetcode.com/problems/longest-consecutive-sequence/">128. Longest Consecutive Sequence</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/128_Longest_Consecutive_Sequence.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/Union Find-grey" alt="Uf">
+    </td>
   </tr>
   <tr>
     <td>54</td>
     <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">153. Find Minimum in Rotated Sorted Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/153_Find_Minimum_in_Rotated_Sorted_Array.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">
+    </td>
   </tr>
   <tr>
     <td>55</td>
