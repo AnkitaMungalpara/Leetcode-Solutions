@@ -381,21 +381,40 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>44</td>
     <td><a href="https://leetcode.com/problems/max-consecutive-ones-iii/">1004. Max Consecutive Ones III</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1004_Max_Consecutive_Ones_III.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">
+      <img src="https://img.shields.io/badge/Sliding Window-violet" alt="sw">
+      <img src="https://img.shields.io/badge/Prefix Sum-yellow" alt="ps">
+    </td>
   </tr>
   <tr>
     <td>45</td>
     <td><a href="https://leetcode.com/problems/find-pivot-index/">724. Find Pivot Index</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/724_Find_Pivot_Index.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Prefix Sum-yellow" alt="ps">
+    </td>
   </tr>
   <tr>
     <td>46</td>
     <td><a href="https://leetcode.com/problems/find-the-difference-of-two-arrays/">2215. Find the Difference of Two Arrays</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/2215_Find_the_Difference_of_Two_Arrays.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+     <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+    </td>
   </tr>
   <tr>
     <td>47</td>
     <td><a href="https://leetcode.com/problems/equal-row-and-column-pairs/">2352. Equal Row and Column Pairs</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/2352_Equal_Row_and_Column_Pairs.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+     <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+      <img src="https://img.shields.io/badge/Matrix-skyblue" alt="Matrix">
+    </td>
   </tr>
   <tr>
     <td>48</td>
