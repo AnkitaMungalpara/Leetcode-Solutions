@@ -34,8 +34,8 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/274_H_Index.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Sorting-inactive" alt="Math">
-       <img src="https://img.shields.io/badge/Counting Sort-purple" alt="String">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+       <img src="https://img.shields.io/badge/Counting Sort-purple" alt="cs">
     </td>
   </tr>
   <tr>
@@ -44,8 +44,8 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/88_Merge_Sorted_Array.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="Math">
-       <img src="https://img.shields.io/badge/Sorting-inactive" alt="Math">
+       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="tp">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/27_Remove_Element.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="Math">
+       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="tp">
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/121_Best_Time_to_Buy_and_Sell_Stock.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="Math">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
   <tr>
@@ -72,8 +72,8 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/122_Best_Time_to_Buy_and_Sell_Stock_II.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="Math">
-       <img src="https://img.shields.io/badge/Greedy-black" alt="Math">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
     </td>
   </tr>
   <tr>
@@ -82,29 +82,45 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/55_Jump_Game.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="Math">
-       <img src="https://img.shields.io/badge/Greedy-black" alt="Math">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
     </td>
   </tr>
   <tr>
     <td>9</td>
     <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">26. Remove Duplicates from Sorted Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="tp">
+    </td>
   </tr>
   <tr>
     <td>10</td>
     <td><a href="https://leetcode.com/problems/product-of-array-except-self/">238. Product of Array Except Self</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/238_Product_of_Array_Except_Self.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Prefix Sum-yellow" alt="ps">
+    </td>
   </tr>
   <tr>
     <td>11</td>
     <td><a href="https://leetcode.com/problems/gas-station/">134. Gas Station</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/134_Gas_Station.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
+    </td>
   </tr>
   <tr>
     <td>12</td>
     <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">80. Remove Duplicates from Sorted Array II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/80_Remove_Duplicates_from_Sorted_Array_II.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="tp">
+    </td>
   </tr>
   <tr>
     <td>13</td>
