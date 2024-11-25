@@ -401,16 +401,30 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>48</td>
     <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">1207. Unique Number of Occurrences</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1207._Unique_Number_of_Occurrences.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+     <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+    </td>
   </tr>
   <tr>
     <td>49</td>
     <td><a href="https://leetcode.com/problems/generate-parentheses/">22. Generate Parentheses</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/22_Generate_Parentheses.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+       <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
+    </td>
   </tr>
   <tr>
     <td>50</td>
     <td><a href="https://leetcode.com/problems/happy-number/">202. Happy Number</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/202_Happy_Number.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+    </td>
   </tr>
   <tr>
     <td>51</td>
