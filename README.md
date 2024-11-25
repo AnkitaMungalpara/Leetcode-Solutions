@@ -7,31 +7,55 @@ This repository contains solutions to various LeetCode problems, all implemented
     <th>Sr. No.</th>
     <th>LeetCode Problem</th>
     <th>GitHub Link</th>
+    <th>Topics</th>
   </tr>
   <tr>
     <td>1</td>
     <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">33. Search in Rotated Sorted Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/33_Search_in_Rotated_Sorted_Array.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">      
+    </td>
   </tr>
   <tr>
     <td>2</td>
     <td><a href="https://leetcode.com/problems/integer-to-roman/">12. Integer to Roman</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/12_Integer_to_Roman.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+    </td>
   </tr>
   <tr>
     <td>3</td>
     <td><a href="https://leetcode.com/problems/h-index/">274. H-Index</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/274_H_Index.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="Math">
+       <img src="https://img.shields.io/badge/Counting Sort-purple" alt="String">
+    </td>
   </tr>
   <tr>
     <td>4</td>
     <td><a href="https://leetcode.com/problems/merge-sorted-array/">88. Merge Sorted Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/88_Merge_Sorted_Array.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="Math">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="Math">
+    </td>
   </tr>
   <tr>
     <td>5</td>
     <td><a href="https://leetcode.com/problems/remove-element/">27. Remove Element</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/27_Remove_Element.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="Math">
+    </td>
   </tr>
   <tr>
     <td>6</td>
