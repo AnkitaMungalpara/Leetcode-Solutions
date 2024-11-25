@@ -61,16 +61,30 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>6</td>
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock">121. Best Time to Buy and Sell Stock</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/121_Best_Time_to_Buy_and_Sell_Stock.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="Math">
+    </td>
   </tr>
   <tr>
     <td>7</td>
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii">122. Best Time to Buy and Sell Stock II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/122_Best_Time_to_Buy_and_Sell_Stock_II.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="Math">
+       <img src="https://img.shields.io/badge/Greedy-black" alt="Math">
+    </td>
   </tr>
   <tr>
     <td>8</td>
     <td><a href="https://leetcode.com/problems/jump-game/">55. Jump Game</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/55_Jump_Game.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="Math">
+       <img src="https://img.shields.io/badge/Greedy-black" alt="Math">
+    </td>
   </tr>
   <tr>
     <td>9</td>
