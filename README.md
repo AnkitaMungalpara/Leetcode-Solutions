@@ -230,28 +230,50 @@ This repository contains solutions to various LeetCode problems, all implemented
   </tr>
   <tr>
     <td>24</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">23. Longest Substring Without Repeating Characters</a></td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/3_Longest_Substring_Without_Repeating_Characters.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Sliding Window-violet" alt="tp">
+    </td>
   </tr>
   <tr>
     <td>25</td>
     <td><a href="https://leetcode.com/problems/ransom-note/">383. Ransom Note</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/383_Ransom_Note.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+    </td>
   </tr>
   <tr>
     <td>26</td>
     <td><a href="https://leetcode.com/problems/isomorphic-strings/">205. Isomorphic Strings</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/205_Isomorphic_Strings.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+    </td>
   </tr>
   <tr>
     <td>27</td>
     <td><a href="https://leetcode.com/problems/word-pattern/">290. Word Pattern</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/290_Word_Pattern.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+    </td>
   </tr>
   <tr>
     <td>28</td>
     <td><a href="https://leetcode.com/problems/remove-duplicate-letters/">316. Remove Duplicate Letters</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/316_Remove_Duplicate_Letters.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Stack-informational" alt="Stack">
+       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
+    </td>
   </tr>
   <tr>
     <td>29</td>
