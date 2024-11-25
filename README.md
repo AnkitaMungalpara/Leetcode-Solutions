@@ -162,36 +162,71 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>17</td>
     <td><a href="https://leetcode.com/problems/valid-palindrome/">125. Valid Palindrome</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/125_Valid_Palindrome.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+    </td>
   </tr>
   <tr>
     <td>18</td>
     <td><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">28. Find the Index of the First Occurrence in a String</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/28_Find_Index_of_the_First_Occurrence_in_String.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/String Matching-grey" alt="sm">
+    </td>
   </tr>
   <tr>
     <td>19</td>
     <td><a href="https://leetcode.com/problems/is-subsequence/">392. Is Subsequence</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/392_Is_Subsequence.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
   </tr>
   <tr>
     <td>20</td>
     <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167. Two Sum II - Input Array Is Sorted</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/167_Two_Sum%20_II_Input_Array_Is_Sorted.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">  
+    </td>
   </tr>
   <tr>
     <td>21</td>
     <td><a href="https://leetcode.com/problems/container-with-most-water/">11. Container With Most Water</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/11_Container_With_Most_Water.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
+    </td>
   </tr>
   <tr>
     <td>22</td>
     <td><a href="https://leetcode.com/problems/3sum/">15. 3Sum</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/15_3Sum.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+    </td>
   </tr>
   <tr>
     <td>23</td>
     <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">209. Minimum Size Subarray Sum</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/209_Minimum_Size_Subarray_Sum.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">  
+       <img src="https://img.shields.io/badge/Sliding Window-violet" alt="tp">
+       <img src="https://img.shields.io/badge/Prefix Sum-yellow" alt="ps">
+    </td>
   </tr>
   <tr>
     <td>24</td>
