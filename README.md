@@ -436,26 +436,42 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>55</td>
     <td><a href="https://leetcode.com/problems/find-peak-element/">162. Find Peak Element</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/162_Find_Peak_Element.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">
+    </td>
   </tr>
   <tr>
     <td>56</td>
     <td><a href="https://leetcode.com/problems/sort-list/">148. Sort List</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/148_Sort_List.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Linked List-red" alt="ll">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/Divide and Conquer-magenta" alt="dc">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+    </td>
   </tr>
   <tr>
     <td>57</td>
-    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters</a></td>
-    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/3_Longest_Substring_Without_Repeating_Characters.py">Solution</a></td>
+    <td><a href="https://leetcode.com/problems/palindrome-partitioning/">131. Palindrome Partitioning</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/131_Palindrome_Partitioning.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+       <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
+    </td>
   </tr>
   <tr>
     <td>58</td>
-    <td><a href="https://leetcode.com/problems/palindrome-partitioning/">131. Palindrome Partitioning</a></td>
-    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/131_Palindrome_Partitioning.py">Solution</a></td>
-  </tr>
-  <tr>
-    <td>59</td>
     <td><a href="https://leetcode.com/problems/replace-words/">648. Replace Words</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/648_Replace_Words.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Trie-pink" alt="String">
+    </td>
   </tr>
   
 </table>
