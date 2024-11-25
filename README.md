@@ -44,7 +44,7 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/88_Merge_Sorted_Array.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="tp">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
        <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
     </td>
   </tr>
@@ -54,7 +54,7 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/27_Remove_Element.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="tp">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
     </td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="tp">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
     </td>
   </tr>
   <tr>
@@ -119,28 +119,44 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/80_Remove_Duplicates_from_Sorted_Array_II.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Two Pointers-lightgreen" alt="tp">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
     </td>
   </tr>
   <tr>
     <td>13</td>
     <td><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/13_Roman_to_Integer.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+       <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+    </td>
   </tr>
   <tr>
     <td>14</td>
     <td><a href="https://leetcode.com/problems/length-of-last-word/">58. Length of Last Word</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/58_Length_of_Last_Word.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+    </td>
   </tr>
   <tr>
     <td>15</td>
     <td><a href="https://leetcode.com/problems/longest-common-prefix/">14. Longest Common Prefix</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/14_Longest_Common_Prefix.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Trie-pink" alt="String">
+    </td>
   </tr>
   <tr>
     <td>16</td>
     <td><a href="https://leetcode.com/problems/reverse-words-in-a-string/">151. Reverse Words in a String</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/151_Reverse_Words_in_a_String.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+    </td>
   </tr>
   <tr>
     <td>17</td>
