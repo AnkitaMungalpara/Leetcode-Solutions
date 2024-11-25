@@ -279,31 +279,58 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>29</td>
     <td><a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/">1081. Smallest Subsequence of Distinct Characters</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1081_Smallest_Subsequence_of_Distinct%20_Characters.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Stack-informational" alt="Stack">
+       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
+       <img src="https://img.shields.io/badge/Monotonic Stack-orange" alt="ms">
+    </td>
   </tr>
   <tr>
     <td>30</td>
     <td><a href="https://leetcode.com/problems/degree-of-an-array/">697. Degree of an Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/697_Degree_of_an_Array.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+    </td>
   </tr>
   <tr>
     <td>31</td>
     <td><a href="https://leetcode.com/problems/combination-sum/">39. Combination Sum</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/39_Combination_Sum.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
+    </td>
   </tr>
   <tr>
     <td>32</td>
     <td><a href="https://leetcode.com/problems/delete-operation-for-two-strings/">583. Delete Operation for Two Strings</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/583_Delete_Operation_for_Two_Strings.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
   </tr>
   <tr>
     <td>33</td>
     <td><a href="https://leetcode.com/problems/permutations/">46. Permutations</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/46_Permutations.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
+    </td>
   </tr>
   <tr>
     <td>34</td>
     <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">5. Longest Palindromic Substring</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/5_Longest_Palindromic_Substring.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
   </tr>
   <tr>
     <td>35</td>
