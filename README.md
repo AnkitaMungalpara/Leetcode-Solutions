@@ -293,4 +293,15 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">3. Longest Substring Without Repeating Characters</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/3_Longest_Substring_Without_Repeating_Characters.py">Solution</a></td>
   </tr>
+  <tr>
+    <td>58</td>
+    <td><a href="https://leetcode.com/problems/palindrome-partitioning/">131. Palindrome Partitioning</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/131_Palindrome_Partitioning.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td><a href="https://leetcode.com/problems/replace-words/">648. Replace Words</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/648_Replace_Words.py">Solution</a></td>
+  </tr>
+  
 </table>
