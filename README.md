@@ -525,5 +525,14 @@ This repository contains solutions to various LeetCode problems, all implemented
        <img src="https://img.shields.io/badge/Trie-pink" alt="String">
     </td>
   </tr>
-  
+  <tr>
+    <td>59</td>
+    <td><a href="https://leetcode.com/problems/find-k-closest-elements/">658. Find K Closest Elements</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/658_Find_K_Closest_Elements.py">Solution</a></td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td><a href="https://leetcode.com/problems/the-kth-factor-of-n/">1492. The kth Factor of n</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1492_The_kth_Factor_of_n.py">Solution</a></td>
+  </tr>
 </table>
