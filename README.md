@@ -336,21 +336,41 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>35</td>
     <td><a href="https://leetcode.com/problems/merge-intervals/">56. Merge Intervals</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/56_Merge_Intervals.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+    </td>
   </tr>
   <tr>
     <td>36</td>
     <td><a href="https://leetcode.com/problems/sort-colors/">75. Sort Colors</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/75_Sort_Colors.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+    </td>
   </tr>
   <tr>
     <td>37</td>
     <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/215_Kth_Largest_Element_in_an_Array.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Divide and Conquer-magenta" alt="dc">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+       <img src="https://img.shields.io/badge/Priority Queue-black" alt="PQ">
+       <img src="https://img.shields.io/badge/Quickselect-green" alt="QS">
+    </td>
   </tr>
   <tr>
     <td>38</td>
     <td><a href="https://leetcode.com/problems/reverse-linked-list/">206. Reverse Linked List</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/206_Reverse_Linked_List.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Linked List-red" alt="ll">
+       <img src="https://img.shields.io/badge/Recursion-skyblue" alt="recursion">
+    </td>
   </tr>
   <tr>
     <td>39</td>
