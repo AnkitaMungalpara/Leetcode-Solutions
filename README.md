@@ -570,10 +570,22 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>59</td>
     <td><a href="https://leetcode.com/problems/find-k-closest-elements/">658. Find K Closest Elements</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/658_Find_K_Closest_Elements.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+       <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">
+       <img src="https://img.shields.io/badge/Sliding Window-violet" alt="sw">
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+       <img src="https://img.shields.io/badge/Priority Queue-black" alt="PQ">
+    </td>
   </tr>
   <tr>
     <td>60</td>
     <td><a href="https://leetcode.com/problems/the-kth-factor-of-n/">1492. The kth Factor of n</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1492_The_kth_Factor_of_n.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+      <img src="https://img.shields.io/badge/Number Theory-pink" alt="NT">
+    </td>
   </tr>
 </table>
