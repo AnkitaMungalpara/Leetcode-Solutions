@@ -376,26 +376,47 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>39</td>
     <td><a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/283_Move_Zeroes.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+    </td>
   </tr>
   <tr>
     <td>40</td>
     <td><a href="https://leetcode.com/problems/coin-change-ii/">518. Coin Change II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/518_Coin_Change_II.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
   </tr>
   <tr>
     <td>41</td>
     <td><a href="https://leetcode.com/problems/decode-string/">394. Decode String</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/394_Decode_String.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Stack-informational" alt="Stack">
+       <img src="https://img.shields.io/badge/Recursion-skyblue" alt="recursion">
+    </td>
   </tr>
   <tr>
     <td>42</td>
     <td><a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/">1456. Maximum Number of Vowels in a Substring of Given Length</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py">Solution</a></td>
+    <td>
+       <img src="https://img.shields.io/badge/String-green" alt="String">
+       <img src="https://img.shields.io/badge/Sliding Window-violet" alt="sw">
+    </td>
   </tr>
   <tr>
     <td>43</td>
     <td><a href="https://leetcode.com/problems/find-the-highest-altitude/">1732. Find the Highest Altitude</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1732_Find_the_Highest_Altitude.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Prefix Sum-yellow" alt="ps">
+    </td>
   </tr>
   <tr>
     <td>44</td>
