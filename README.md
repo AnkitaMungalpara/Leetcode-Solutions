@@ -588,7 +588,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Number Theory-pink" alt="NT">
     </td>
   </tr>
-
   <tr>
     <td>61</td>
     <td><a href="https://leetcode.com/problems/longest-common-subsequence/">1143. Longest Common Subsequence</a></td>
@@ -598,11 +597,32 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
-
   <tr>
     <td>62</td>
     <td><a href="https://leetcode.com/problems/invert-binary-tree/">226. Invert Binary Tree</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/226_Invert_Binary_Tree.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Binary Tree-black" alt="bt">
+      <img src="https://img.shields.io/badge/Depth First Search-orange" alt="dfs">
+      <img src="https://img.shields.io/badge/Breadth First Search-blue" alt="bfs">
+    </td>
+  </tr>
+
+  <tr>
+    <td>63</td>
+    <td><a href="https://leetcode.com/problems/maximum-subsequence-score/">2542. Maximum Subsequence Score</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/2542_Maximum_Subsequence_Score.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Binary Tree-black" alt="bt">
+      <img src="https://img.shields.io/badge/Depth First Search-orange" alt="dfs">
+      <img src="https://img.shields.io/badge/Breadth First Search-blue" alt="bfs">
+    </td>
+  </tr>
+
+  <tr>
+    <td>64</td>
+    <td><a href="https://leetcode.com/problems/symmetric-tree/">101. Symmetric Tree</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/101_Symmetric_Tree.py">Solution</a></td>
     <td>
       <img src="https://img.shields.io/badge/Binary Tree-black" alt="bt">
       <img src="https://img.shields.io/badge/Depth First Search-orange" alt="dfs">
