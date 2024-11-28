@@ -607,18 +607,17 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Breadth First Search-blue" alt="bfs">
     </td>
   </tr>
-
   <tr>
     <td>63</td>
     <td><a href="https://leetcode.com/problems/maximum-subsequence-score/">2542. Maximum Subsequence Score</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/2542_Maximum_Subsequence_Score.py">Solution</a></td>
     <td>
-      <img src="https://img.shields.io/badge/Binary Tree-black" alt="bt">
-      <img src="https://img.shields.io/badge/Depth First Search-orange" alt="dfs">
-      <img src="https://img.shields.io/badge/Breadth First Search-blue" alt="bfs">
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
+      <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+      <img src="https://img.shields.io/badge/Priority Queue-black" alt="PQ">
     </td>
   </tr>
-
   <tr>
     <td>64</td>
     <td><a href="https://leetcode.com/problems/symmetric-tree/">101. Symmetric Tree</a></td>
