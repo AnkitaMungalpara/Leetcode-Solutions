@@ -588,4 +588,24 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Number Theory-pink" alt="NT">
     </td>
   </tr>
+
+  <tr>
+    <td>61</td>
+    <td><a href="https://leetcode.com/problems/longest-common-subsequence/">1143. Longest Common Subsequence</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1143_Longest_Common_Subsequence.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+      <img src="https://img.shields.io/badge/Number Theory-pink" alt="NT">
+    </td>
+  </tr>
+
+  <tr>
+    <td>62</td>
+    <td><a href="https://leetcode.com/problems/invert-binary-tree/">226. Invert Binary Tree</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/226_Invert_Binary_Tree.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+      <img src="https://img.shields.io/badge/Number Theory-pink" alt="NT">
+    </td>
+  </tr>
 </table>
