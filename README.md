@@ -594,8 +594,8 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/longest-common-subsequence/">1143. Longest Common Subsequence</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/1143_Longest_Common_Subsequence.py">Solution</a></td>
     <td>
-      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
-      <img src="https://img.shields.io/badge/Number Theory-pink" alt="NT">
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
 
@@ -604,8 +604,9 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/invert-binary-tree/">226. Invert Binary Tree</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/226_Invert_Binary_Tree.py">Solution</a></td>
     <td>
-      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
-      <img src="https://img.shields.io/badge/Number Theory-pink" alt="NT">
+      <img src="https://img.shields.io/badge/Binary Tree-black" alt="bt">
+      <img src="https://img.shields.io/badge/Depth First Search-orange" alt="dfs">
+      <img src="https://img.shields.io/badge/Breadth First Search-blue" alt="bfs">
     </td>
   </tr>
 </table>
