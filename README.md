@@ -628,16 +628,13 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Breadth First Search-blue" alt="bfs">
     </td>
   </tr>
-
   <tr>
     <td>65</td>
     <td><a href="https://leetcode.com/problems/zero-array-transformation-i/">3355. Zero Array Transformation I</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/3355_Zero_Array_Transformation_I.py">Solution</a></td>
     <td>
       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-      <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
-      <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
-      <img src="https://img.shields.io/badge/Priority Queue-black" alt="PQ">
+      <img src="https://img.shields.io/badge/Prefix Sum-yellow" alt="ps">
     </td>
   </tr>
   <tr>
@@ -645,9 +642,10 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">2300. Successful Pairs of Spells and Potions</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/2300_Successful_Pairs_of_Spells_and_Potions.py">Solution</a></td>
     <td>
-      <img src="https://img.shields.io/badge/Binary Tree-black" alt="bt">
-      <img src="https://img.shields.io/badge/Depth First Search-orange" alt="dfs">
-      <img src="https://img.shields.io/badge/Breadth First Search-blue" alt="bfs">
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+      <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">  
+      <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
     </td>
   </tr>
 </table>
