@@ -648,4 +648,14 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
     </td>
   </tr>
+  <tr>
+    <td>67</td>
+    <td><a href="https://leetcode.com/problems/subsets-ii/">https://leetcode.com/problems/subsets-ii/</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/90_Subsets_II.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
+      <img src="https://img.shields.io/badge/Bit Manipulation-orange" alt="sorting">
+    </td>
+  </tr>
 </table>
