@@ -650,7 +650,7 @@ This repository contains solutions to various LeetCode problems, all implemented
   </tr>
   <tr>
     <td>67</td>
-    <td><a href="https://leetcode.com/problems/subsets-ii/">https://leetcode.com/problems/subsets-ii/</a></td>
+    <td><a href="https://leetcode.com/problems/subsets-ii/">90. Subsets II</a></td>
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/90_Subsets_II.py">Solution</a></td>
     <td>
       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
