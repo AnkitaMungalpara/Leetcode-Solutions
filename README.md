@@ -658,4 +658,16 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Bit Manipulation-orange" alt="sorting">
     </td>
   </tr>
+  <tr>
+    <td>68</td>
+    <td><a href="https://leetcode.com/problems/word-search/">79. Word Search</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/79_Word_Search.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+      <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
+      <img src="https://img.shields.io/badge/Depth First Search-orange" alt="dfs">
+      <img src="https://img.shields.io/badge/Matrix-skyblue" alt="Matrix">
+    </td>
+  </tr>
 </table>
