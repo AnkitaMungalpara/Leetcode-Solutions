@@ -34,7 +34,7 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/274_H_Index.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
+       
        <img src="https://img.shields.io/badge/Counting Sort-purple" alt="cs">
     </td>
   </tr>
@@ -670,7 +670,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Matrix-skyblue" alt="Matrix">
     </td>
   </tr>
-
   <tr>
     <td>69</td>
     <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/">208. Implement Trie (Prefix Tree)</a></td>
@@ -681,7 +680,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Trie-pink" alt="trie">
     </td>
   </tr>
-
   <tr>
     <td>70</td>
     <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">17. Letter Combinations of a Phone Number</a></td>
@@ -690,6 +688,25 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
       <img src="https://img.shields.io/badge/String-green" alt="String">
       <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
+    </td>
+  </tr>
+  <tr>
+    <td>71</td>
+    <td><a href="https://leetcode.com/problems/climbing-stairs/">70. Climbing Stairs</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/70_Climbing_Stairs.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+      <img src="https://img.shields.io/badge/Memoization-blueviolet" alt="memoi">
+      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+    </td>
+  </tr>
+  <tr>
+    <td>72</td>
+    <td><a href=https://leetcode.com/problems/min-cost-climbing-stairs/>746. Min Cost Climbing Stairs</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/746_Min_Cost_Climbing_Stairs.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
 </table>
