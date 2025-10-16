@@ -670,4 +670,26 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Matrix-skyblue" alt="Matrix">
     </td>
   </tr>
+
+  <tr>
+    <td>69</td>
+    <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/">208. Implement Trie (Prefix Tree)</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/208_Implement_Trie_Prefix_Tree.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+      <img src="https://img.shields.io/badge/Trie-pink" alt="trie">
+    </td>
+  </tr>
+
+  <tr>
+    <td>70</td>
+    <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">17. Letter Combinations of a Phone Number</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/17_Letter_Combinations_of_a_Phone_Number.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+      <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
+    </td>
+  </tr>
 </table>
