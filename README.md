@@ -34,7 +34,7 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/274_H_Index.py">Solution</a></td>
     <td>
        <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
-       
+       <img src="https://img.shields.io/badge/Sorting-inactive" alt="sorting">
        <img src="https://img.shields.io/badge/Counting Sort-purple" alt="cs">
     </td>
   </tr>
