@@ -709,4 +709,22 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
+  <tr>
+    <td>73</td>
+    <td><a href=https://leetcode.com/problems/house-robber/>198. House Robber</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/198_House_Robber.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
+  <tr>
+    <td>74</td>
+    <td><a href=https://leetcode.com/problems/house-robber-ii/>213. House Robber II</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/213_House_Robber_II.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
 </table>
