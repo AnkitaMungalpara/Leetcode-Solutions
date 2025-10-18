@@ -727,4 +727,14 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
+  <tr>
+    <td>75</td>
+    <td><a href=https://leetcode.com/problems/palindromic-substrings/>647. Palindromic Substrings</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/647_Palindromic_Substrings.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Two Pointers-blueviolet" alt="tp">
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
 </table>
