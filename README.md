@@ -737,4 +737,44 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
+
+  <tr>
+    <td>76</td>
+    <td><a href=https://leetcode.com/problems/coin-change/>322. Coin Change</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/322_Coin_Change.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+      <img src="https://img.shields.io/badge/Breadth First Search-blue" alt="bfs">
+    </td>
+  </tr>
+  <tr>
+    <td>77</td>
+    <td><a href=https://leetcode.com/problems/decode-ways/>91. Decode Ways</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/322_Coin_Change.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td><a href=https://leetcode.com/problems/maximum-product-subarray/>152. Maximum Product Subarray</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/91_Decode_Ways.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
+  <tr>
+    <td>79</td>
+    <td><a href=https://leetcode.com/problems/maximum-product-subarray/>139. Word Break</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/139._Word_Break.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+      <img src="https://img.shields.io/badge/Memoization-blueviolet" alt="memoi">
+    </td>
+  </tr>
 </table>
