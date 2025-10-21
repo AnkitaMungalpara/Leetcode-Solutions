@@ -777,4 +777,25 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Memoization-blueviolet" alt="memoi">
     </td>
   </tr>
+
+  <tr>
+    <td>80</td>
+    <td><a href=https://leetcode.com/problems/longest-increasing-subsequence/>300. Longest Increasing Subsequence</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/300_Longest_Increasing_Subsequence.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Binary%20Search-brightgreen" alt="Binary Search">    
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
+
+  <tr>
+    <td>81</td>
+    <td><a href=https://leetcode.com/problems/partition-equal-subset-sum/>416. Partition Equal Subset Sum</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/416_Partition_Equal_Subset_Sum.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
 </table>
