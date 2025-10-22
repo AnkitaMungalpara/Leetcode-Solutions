@@ -777,7 +777,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Memoization-blueviolet" alt="memoi">
     </td>
   </tr>
-
   <tr>
     <td>80</td>
     <td><a href=https://leetcode.com/problems/longest-increasing-subsequence/>300. Longest Increasing Subsequence</a></td>
@@ -788,7 +787,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
-
   <tr>
     <td>81</td>
     <td><a href=https://leetcode.com/problems/partition-equal-subset-sum/>416. Partition Equal Subset Sum</a></td>
@@ -796,6 +794,15 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>
       <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
+   <tr>
+    <td>82</td>
+    <td><a href=https://leetcode.com/problems/unique-paths/>62. Unique Paths</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/62_Unique_Paths.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
     </td>
   </tr>
 </table>
