@@ -805,4 +805,13 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Math-grey" alt="Math">
     </td>
   </tr>
+  <tr>
+    <td>83</td>
+    <td><a href=https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/>309. Best Time to Buy and Sell Stock with Cooldown</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
 </table>
