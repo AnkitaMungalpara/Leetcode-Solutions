@@ -814,7 +814,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
     </td>
   </tr>
-
   <tr>
     <td>84</td>
     <td><a href=https://leetcode.com/problems/target-sum/>494. Target Sum</a></td>
@@ -825,7 +824,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Backtracking-purple" alt="Bt">
     </td>
   </tr>
-
   <tr>
     <td>85</td>
     <td><a href=https://leetcode.com/problems/interleaving-string/>97. Interleaving String</a></td>
@@ -833,6 +831,15 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>
       <img src="https://img.shields.io/badge/String-green" alt="String">
       <img src="https://img.shields.io/badge/Dynamic Programming-critical" alt="dp">
+    </td>
+  </tr>
+  <tr>
+    <td>86</td>
+    <td><a href=https://leetcode.com/problems/jump-game-ii/>45. Jump Game II</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/45_Jump_Game_II.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
     </td>
   </tr>
 </table>
