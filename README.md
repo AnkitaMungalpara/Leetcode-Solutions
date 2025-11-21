@@ -842,4 +842,25 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
     </td>
   </tr>
+
+  <tr>
+    <td>87</td>
+    <td><a href=https://leetcode.com/problems/hand-of-straights/>846. Hand of Straights</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/846_Hand_of_Straights.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
+      <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
+    </td>
+  </tr>
+
+  <tr>
+    <td>88</td>
+    <td><a href=https://leetcode.com/problems/valid-parenthesis-string/>678. Valid Parenthesis String</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/678_Valid_Parenthesis_String.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/String-green" alt="String">
+      <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
+    </td>
+  </tr>
 </table>
