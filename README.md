@@ -842,7 +842,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
     </td>
   </tr>
-
   <tr>
     <td>87</td>
     <td><a href=https://leetcode.com/problems/hand-of-straights/>846. Hand of Straights</a></td>
@@ -853,7 +852,6 @@ This repository contains solutions to various LeetCode problems, all implemented
       <img src="https://img.shields.io/badge/Hash Table-orange" alt="HashTable">
     </td>
   </tr>
-
   <tr>
     <td>88</td>
     <td><a href=https://leetcode.com/problems/valid-parenthesis-string/>678. Valid Parenthesis String</a></td>
@@ -861,6 +859,25 @@ This repository contains solutions to various LeetCode problems, all implemented
     <td>
       <img src="https://img.shields.io/badge/String-green" alt="String">
       <img src="https://img.shields.io/badge/Greedy-black" alt="greedy">
+    </td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td><a href=https://leetcode.com/problems/plus-one/>66. Plus One</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/66_Plus_One.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Array-blue" alt="Array Tag">
+      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+    </td>
+  </tr>
+
+  <tr>
+    <td>90</td>
+    <td><a href=https://leetcode.com/problems/powx-n/>50. Pow(x, n)</a></td>
+    <td><a href="https://github.com/AnkitaMungalpara/Leetcode-Solutions/blob/main/50_Pow_x_n.py">Solution</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Math-grey" alt="Math">
+      <img src="https://img.shields.io/badge/Recursion-skyblue" alt="recursion">
     </td>
   </tr>
 </table>
